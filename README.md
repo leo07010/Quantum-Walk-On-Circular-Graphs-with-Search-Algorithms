@@ -1,4 +1,4 @@
-# Quantum-Walk-On-Circular-Graphs-with-Search-Algorithms
+# AGAIQuantum-Walk-On-Circular-Graphs-with-Search-Algorithms
 # Work value: 
 Make a complete experimental circuit, successfully compare classical and quantum random walks. 
 The preliminary conclusion clearly shows the difference between classical bell-shaped distribution and quantum diffusion symmetrical distribution. 
