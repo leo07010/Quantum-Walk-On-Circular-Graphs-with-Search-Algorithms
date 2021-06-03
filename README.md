@@ -17,15 +17,12 @@ The time evolution of time enzymes, this problem only requires 33 nodes, these n
 ## Features of the work: 
 This work uses quantum computers in the emerging field of the 21st century for research and exploration, and uses the perspective of high school students to interpret the distribution of the quantum core algorithm-quantum random walk, and corrects the wave phase interference effect of the H gate. A new type of quantum random walk is used for phase correction. In the second part, a two-dimensional quantum walk circuit-spherical quantum walk, which is different from the mathematical formula in the paper, is also successfully proposed. The simulator is also used to see the distribution of quantum random walks, and the correction is also used. The latter quantum walk is different from the classical random walk to search for the target.
 
-In this work, we would like to use quantum random walk to study phase interference, and a complete description and main result of this work can be found in ![phase_interference_in_QRK.jpynb](https://github.com/wslu42/QCHack_walkwPhase/blob/main/phase_interference_in_QRK.ipynb).
 
 Here's a quick video presentation for our results.
 
-https://youtu.be/rlU0DNBzNMs
 
 The presentation file.
 
-https://1drv.ms/p/s!AlWkfUhLa3QogmemXudCqZ0l6Ofc
 
 (The evolution of quantum random walk with Hadamard coin in 1D)
 
